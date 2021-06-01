@@ -1,0 +1,2 @@
+# GoldCoin
+Goldcoin Token
